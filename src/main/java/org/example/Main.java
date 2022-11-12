@@ -5,6 +5,6 @@ public class Main {
         int  x,y,z;
         y=x=5;
         z=y+x;
-        System.out.println("Hello world! i am vikash how are you,5+5="+z);
+        System.out.println("Hello world! i am vikash how are you hello ,5+5="+z);
     }
 }
